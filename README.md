@@ -53,6 +53,12 @@
 ### 9.0 Requirement Analysis
 <h6> https://github.com/Elijah0413/TechMedico_Project_SAD_20232024/tree/main/9.0%20Requirement%20Analysis</h6>
 
+<hr>
+
+### 10.0 Benefit and Overall Summary
+<h6> https://github.com/Elijah0413/TechMedico_Project_SAD_20232024/tree/main/10.0%20Benefit%20and%20Overall%20Summary%20of%20Proposed%20System%20</h6>
+
+
 <!--
 
 ## Report file

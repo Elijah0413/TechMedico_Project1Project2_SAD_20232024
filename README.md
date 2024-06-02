@@ -37,7 +37,7 @@
 <hr>
 
 ### 7.0 Scope of the Project
-<h6> link </h6>
+<h6> https://github.com/Elijah0413/TechMedico_Project_SAD_20232024/tree/main/7.0%20Scope%20of%20the%20project </h6>
 
 <hr>
 

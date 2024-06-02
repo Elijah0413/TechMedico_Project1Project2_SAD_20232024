@@ -7,7 +7,7 @@
 <hr>
 
 ### 1.0 Introduction
-<h6> - <a href="https://drive.google.com/drive/folders/10_kJkmGJndKlO6PvwtmhqypJ4aIMTOw0?usp=drive_link">  https://drive.google.com/drive/folders/10_kJkmGJndKlO6PvwtmhqypJ4aIMTOw0?usp=drive_link</a> </h6>
+<h6> https://github.com/Elijah0413/TechMedico_Project_SAD_20232024/tree/main/1.0%20Introduction</h6>
 
 <hr>
 

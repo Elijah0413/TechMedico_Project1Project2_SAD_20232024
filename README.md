@@ -12,42 +12,42 @@
 <hr>
 
 ### 2.0 Information Gathering Process
-#### link 
+<h6> https://github.com/Elijah0413/TechMedico_Project_SAD_20232024/tree/main/2.0%20Information%20Gathering%20Process</h6>
 
 <hr>
 
 ### 3.0 Background Study
-#### link
+<h6> https://github.com/Elijah0413/TechMedico_Project_SAD_20232024/tree/main/3.0%20background</h6>
 
 <hr>
 
 ### 4.0 Problem Statement
-#### link
+<h6> https://github.com/Elijah0413/TechMedico_Project_SAD_20232024/tree/main/4.0%20Problem%20Statement</h6>
 
 <hr>
 
 ### 5.0 Proposed Solutions
-#### link
+<h6> https://github.com/Elijah0413/TechMedico_Project_SAD_20232024/tree/main/5.0%20Proposed%20Solutions</h6>
 
 <hr>
 
 ### 6.0 Objectives
-#### link
+<h6> link </h6>
 
 <hr>
 
 ### 7.0 Scope of the Project
-#### link
+<h6> link </h6>
 
 <hr>
 
 ### 8.0 Project Planning
-#### link
+<h6> https://github.com/Elijah0413/TechMedico_Project_SAD_20232024/tree/main/8.0%20Project%20Planning</h6>
 
 <hr>
 
 ### 9.0 Requirement Analysis
-#### link
+<h6> https://github.com/Elijah0413/TechMedico_Project_SAD_20232024/tree/main/9.0%20Requirement%20Analysis</h6>
 
 <!--
 

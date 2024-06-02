@@ -1,4 +1,4 @@
-## Objective
+## 6.0 Objective
 
 <p>The primary objective of this project is to modernize and digitize Koperasi KADA's operations by following the Software Development Life Cycle (SDLC) methodology. 
 

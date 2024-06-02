@@ -4,31 +4,49 @@
 
 ## Project Part
 
-### 1.0
+<hr>
+
+### 1.0 Introduction
 #### link
 
-### 2.0
+<hr>
+
+### 2.0 Information Gathering Process
+#### link 
+
+<hr>
+
+### 3.0 Background Study
 #### link
 
-### 3.0
+<hr>
+
+### 4.0 Problem Statement
 #### link
 
-### 4.0
+<hr>
+
+### 5.0 Proposed Solutions
 #### link
 
-### 5.0
+<hr>
+
+### 6.0 Objectives
 #### link
 
-### 6.0
+<hr>
+
+### 7.0 Scope of the Project
 #### link
 
-### 7.0
+<hr>
+
+### 8.0 Project Planning
 #### link
 
-### 8.0
-#### link
+<hr>
 
-### 9.0
+### 9.0 Requirement Analysis
 #### link
 
 <!--

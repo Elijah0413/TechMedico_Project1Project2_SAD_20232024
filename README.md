@@ -7,7 +7,7 @@
 <hr>
 
 ### 1.0 Introduction
-#### link
+<a href="https://github.com/Elijah0413/TechMedico_Project_SAD_20232024/tree/main/1.0%20Introduction">
 
 <hr>
 

@@ -1,7 +1,7 @@
 # TechMedico_20232024😆-> System Analysis Design (SAD REPORT)
 ### 0.0 GROUP PHOTO
 
-<img src = "image8.0/Human Resource.jpg" width = "600" >
+<img src = "img.file/group_photo.jpeg" width = "600" >
 
 
 <hr>

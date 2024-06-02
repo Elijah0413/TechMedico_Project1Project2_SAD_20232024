@@ -1,6 +1,4 @@
-# TechMedico_Project1Project2_SAD_20232024😆
-# System Analysis Design (SAD REPORT)
-
+# TechMedico_20232024😆-> System Analysis Design (SAD REPORT)
 
 ## Report file
 <header>

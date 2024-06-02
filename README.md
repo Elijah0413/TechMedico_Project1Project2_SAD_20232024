@@ -32,7 +32,7 @@
 <hr>
 
 ### 6.0 Objectives
-<h6> link </h6>
+<h6> https://github.com/Elijah0413/TechMedico_Project_SAD_20232024/tree/main/6.0%20Objectives </h6>
 
 <hr>
 
